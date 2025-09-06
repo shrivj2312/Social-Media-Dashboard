@@ -1,2 +1,5 @@
-# Social-Media-Dashboard
-This repository contains a Power BI dashboard analyzing social media campaign performance.   The dashboard provides insights into ad spend, product sales, ROI, and engagement metrics across channels.
+# Social Media Dashboard – Power BI
+## Project Overview
+
+This repository contains a Power BI dashboard that analyzes social media campaign performance.
+It provides insights into ad spend, sales, ROI, and engagement metrics across multiple channels.
